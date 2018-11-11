@@ -1,6 +1,6 @@
 Lotte turns L0773
 =================
- 
+
 Tools:
 
 - (!!!) Git (Version Control System) 
@@ -16,18 +16,18 @@ Tools:
 Guides / Books / Readings
 --------------------------
 
-- (!!!) Best practies in Python: https://docs.python-guide.org/
+- (!!!) Best practises in Python: https://docs.python-guide.org/
     + besonders: https://docs.python-guide.org/intro/learning/
 - (!) https://natureofcode.com/
-    + Processing gibts auch basierend auf Python: https://github.com/jdf/processing.py#python-mode-for-processing
+    + Processing gibt's auch basierend auf Python: https://github.com/jdf/processing.py#python-mode-for-processing
 - [Philisophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
     + [Talk vom Autor](https://www.youtube.com/watch?v=bmSAYlu0NcY)  
-- Liste an Python Buechern
+- Liste an Python Büchern
     + (!) https://realpython.com/best-python-books/#best-intermediate-and-advanced-python-books 
     + https://wsvincent.com/best-python-books/
 - [Best of Best Practices](https://gist.github.com/sloria/7001839)
 - [Code lesen und verstehen](https://news.ycombinator.com/item?id=9896369)    
-- [Funktional Programmin in Python](https://www.oreilly.com/ideas/functional-programming-in-python) (Mark meint das ist der Hit.)
+- [Functional Programming in Python](https://www.oreilly.com/ideas/functional-programming-in-python) (Mark meint das ist der Hit)
 
 Online Course
 -------------
@@ -48,22 +48,22 @@ Intros:
     + Python + Git, Command Line! 
 - (!) [Introduction to computer science](https://eu.udacity.com/course/intro-to-computer-science--cs101)
 
-Intermediate levwel Software engineering / development: 
+Intermediate level software engineering / development: 
 
-- (!) [Using Python for Research](https://www.edx.org/course/using-python-for-research) (edX). Intro zu Numpy, Matplotlib, Scipy - den standart research libraries in Python (falls du das alles nicht schon kennst).
+- (!) [Using Python for Research](https://www.edx.org/course/using-python-for-research) (edX). Intro zu Numpy, Matplotlib, Scipy - den standart scientific libraries in Python (falls Du das alles nicht schon kennst).
 - [Data Structures: An Active Learning Approach](https://www.edx.org/course/data-structures-an-active-learning-approach)
 - [Paradigms of Computer Programming – Abstraction and Concurrency](https://www.edx.org/course/paradigms-of-computer-programming-abstraction-and-concurrency) (edx). Hier werden viele Programmierpagadigmen und -koncepte in einer etwas eigenartigen Programmiersprache (Oz) durchgenommen. 
 - Kurse in Java zu software development (edx). Koennten zu sehr auf grosse software systeme abzielen:
     + [Software Development Fundamentals](https://www.edx.org/course/software-development-fundamentals-pennx-sd1x)
     + [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)
     + [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)
-- [Principles of Computing (zwei Teile)](https://www.coursera.org/learn/principles-of-computing-1?specialization=computer-fundamentals) (Coursera). Moeglicherweise interessante Videos von dem Kurs (falls Dir die "OK?"s nicht irgendwann die Nerven nehmen ...) :
+- [Principles of Computing (zwei Teile)](https://www.coursera.org/learn/principles-of-computing-1?specialization=computer-fundamentals) (Coursera). Ganz interessante Themen (falls Dir die "OK?"s nicht irgendwann die Nerven nehmen ...) :
     + Coding Style and Standards
     + Python Modules
     + Testing
     + Objects and References
     + Debugging
-    + Modeling, Assertions, and Invariants
+    + Modelling, Assertions, and Invariants
     + Software Development
 
 Programming and Arts:
